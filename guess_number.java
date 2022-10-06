@@ -24,7 +24,7 @@ class Guess
 	}
 }
 
-class guess_name{
+class guess_number{
 
 	public static void main(String[] args) {
 	    String more="Yes";
