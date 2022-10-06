@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.ArrayList;
-class Main
+class ATM_INTERFACE
 {
   public static void main (String[]args)
   {
